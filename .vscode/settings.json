@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "ALG021.C": "cpp",
+        "bisection.C": "cpp",
+        "ALG022.C": "cpp",
+        "ALG024.C": "cpp",
+        "ALG023.C": "cpp",
+        "ALG025.C": "cpp"
+    }
+}
